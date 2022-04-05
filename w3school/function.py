@@ -1,5 +1,5 @@
 def my_function(fname):
-  print(fname + "Gupta")
+    print(fname + " Gupta")
 
 my_function("Saurabh")
 my_function("Vaishali")
