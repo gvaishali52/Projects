@@ -1,3 +1,5 @@
+Hey I am Vaishali. This is my first project on Iris dataset.
+
 # Iris Flower Dataset
 ## Iris flower data set used for multi-class classification.
 
@@ -12,4 +14,3 @@
 
 ### Acknowledgements
 - This dataset is free and is publicly available at the UCI Machine Learning Repository
-
